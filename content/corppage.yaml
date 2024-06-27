@@ -1,0 +1,19 @@
+
+  - id: "404e-a3e0-eeb4"
+    web:
+      metaDescription: ""
+      metaTitle: "Home Corps"
+      metaLinkText: "Home Corps"
+      metaKeywords: null
+      pathPart: "home-corps"
+      path: "/home-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 129
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data: {}

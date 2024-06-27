@@ -1,0 +1,41 @@
+
+  - id: "48f2-5ff2-af8d"
+    web:
+      metaDescription: ""
+      metaTitle: "Corps Corporate Partnership"
+      metaLinkText: "Corps Corporate Partnership"
+      metaKeywords: null
+      pathPart: "corps-corporate-partnership"
+      path: "/corps-corporate-partnership/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 150
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "Corps Corporate Partnership"
+  - id: "78d2-afbe-ac3b"
+    web:
+      metaDescription: ""
+      metaTitle: "National Corporate Partnership"
+      metaLinkText: "National Corporate Partnership"
+      metaKeywords: null
+      pathPart: "national-corporate-partnership"
+      path: "/national-corporate-partnership/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 149
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "National Corporate Partnership"

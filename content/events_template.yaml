@@ -1,0 +1,19 @@
+
+  - id: "df38-13d6-3429"
+    web:
+      metaDescription: ""
+      metaTitle: "Events Template"
+      metaLinkText: "Events Template"
+      metaKeywords: null
+      pathPart: "events-template"
+      path: "/events-template/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data: {}

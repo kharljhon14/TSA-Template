@@ -1,0 +1,41 @@
+
+  - id: "d172-938b-17e7"
+    web:
+      metaDescription: ""
+      metaTitle: "All Programs Corps"
+      metaLinkText: "All Programs Corps"
+      metaKeywords: null
+      pathPart: "all-programs-corps"
+      path: "/all-programs-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "All Programs Corps"
+  - id: "b17f-04ff-358d"
+    web:
+      metaDescription: ""
+      metaTitle: "All Programs National"
+      metaLinkText: "All Programs National"
+      metaKeywords: null
+      pathPart: "all-programs-national"
+      path: "/all-programs-national/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "All Programs National"

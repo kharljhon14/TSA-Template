@@ -1,0 +1,41 @@
+
+  - id: "5eac-3aaf-e759"
+    web:
+      metaDescription: ""
+      metaTitle: "News Archive Corps"
+      metaLinkText: "News Archive Corps"
+      metaKeywords: null
+      pathPart: "news-archive-corps"
+      path: "/news-archive-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 144
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "News Archive Corps"
+  - id: "c64e-2a79-0195"
+    web:
+      metaDescription: ""
+      metaTitle: "News Archive National"
+      metaLinkText: "News Archive National"
+      metaKeywords: null
+      pathPart: "news-archive-national"
+      path: "/news-archive-national/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 143
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "News Archive National"

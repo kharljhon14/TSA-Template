@@ -1,0 +1,20 @@
+
+  - id: "87a2-30e3-395d"
+    web:
+      metaDescription: ""
+      metaTitle: "Test"
+      metaLinkText: "Test"
+      metaKeywords: null
+      pathPart: "test"
+      path: "/test/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 152
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data:
+      test_title: "Test"

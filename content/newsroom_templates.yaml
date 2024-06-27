@@ -1,0 +1,41 @@
+
+  - id: "c07c-f6ee-3520"
+    web:
+      metaDescription: ""
+      metaTitle: "Newsroom Corps"
+      metaLinkText: "Newsroom Corps"
+      metaKeywords: null
+      pathPart: "newsroom-corps"
+      path: "/newsroom-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 141
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "Newsroom Corps"
+  - id: "8b81-fd71-bd74"
+    web:
+      metaDescription: ""
+      metaTitle: "Newsroom National"
+      metaLinkText: "Newsroom National"
+      metaKeywords: null
+      pathPart: "newsroom-national"
+      path: "/newsroom-national/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 140
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "Newsroom National"

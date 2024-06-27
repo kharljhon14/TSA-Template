@@ -1,0 +1,94 @@
+<div className={styles.pvlRoot}>
+	<hero-module
+  title="Marketing Message/Key Moments/Events"
+  imageUrl="https://mgfrnv8q.media.zestyio.com/Vector.png"
+  subtitle="Subtitle of the hero goes here"
+>
+  <div
+    slot="cta"
+    class="cta"
+  >
+    <div class="cta__secondary">
+      <button
+        type="button"
+        class="btn btn--small btn--dark--fill"
+      >
+        CTA
+      </button>
+      <button
+        type="button"
+        class="btn btn--small btn--dark--fill"
+      >
+        CTA
+      </button>
+    </div>
+  </div>
+</hero-module>
+	<div class="row" style="background-color:#EFF1F0;" classname="{styles.pvlRow}">
+		<div class="row" style="block" className={styles.pvlColumn}>
+			<div class="p-5">
+  <h2 class="tsa-title w-100 py-5">Augusta Capital Region Corps Homeless Shelter Program Information</h2>
+  <tsa-accordion>
+    <tsa-accordion-item heading="Permanent Supportive Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Traditional Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Homeless Shelter Service">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+  </tsa-accordion>
+</div>
+			<div class="p-5">
+  <h2 class="tsa-title w-100 py-5">Augusta Capital Region Corps Homeless Shelter Program Information</h2>
+  <tsa-accordion>
+    <tsa-accordion-item heading="Permanent Supportive Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Traditional Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Homeless Shelter Service">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+  </tsa-accordion>
+</div>
+			<div class="p-5">
+  <h2 class="tsa-title w-100 py-5">Augusta Capital Region Corps Homeless Shelter Program Information</h2>
+  <tsa-accordion>
+    <tsa-accordion-item heading="Permanent Supportive Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Traditional Housing">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+    <tsa-accordion-item heading="Homeless Shelter Service">
+      <p><strong>Schedule</strong>: Every Tuesday 1:00 PM - 4:00 PM</p>
+      <p><strong>Location</strong>: 12345 Main Street, Oakcliff, TX 75000</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </tsa-accordion-item>
+  </tsa-accordion>
+</div>
+		</div>
+	</div>
+</div>

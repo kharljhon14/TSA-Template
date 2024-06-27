@@ -1,0 +1,19 @@
+
+  - id: "ec76-5018-4b7e"
+    web:
+      metaDescription: ""
+      metaTitle: "Program Template"
+      metaLinkText: "Program Template"
+      metaKeywords: null
+      pathPart: "program-template"
+      path: "/program-template/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data: {}

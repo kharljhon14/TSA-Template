@@ -1,0 +1,19 @@
+
+  - id: "7012-e9e6-92a6"
+    web:
+      metaDescription: ""
+      metaTitle: "Careers Template"
+      metaLinkText: "Careers Template"
+      metaKeywords: null
+      pathPart: "careers-template"
+      path: "/careers-template/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 109
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data: {}

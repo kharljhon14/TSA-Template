@@ -1,0 +1,28 @@
+
+  - id: "1426-4bd4-2174"
+    web:
+      metaDescription: ""
+      metaTitle: "Home National"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data:
+      contact_subtitle: "Subtitle. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun ut labore et dolore magna aliqua. Ut"
+      contact_title: "[FPO] Contact Us"
+      hero_subtitle: "Subtitle of the hero goes here"
+      hero_title: "Marketing Message/Key Moments/Events"
+      map_header_subtitle: "Find a Salvation Army Near You"
+      map_header_title: "The Salvation Army Serves in every ZIp Code in America"
+      services_title: "[FPO] Our Services"
+      stats_title: "[FPO] Stats/Facts"
+      stories_title: "[FPO] Featured Salvation Army Stories of Service"

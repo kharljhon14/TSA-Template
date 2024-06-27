@@ -1,0 +1,41 @@
+
+  - id: "f816-d16d-b90a"
+    web:
+      metaDescription: ""
+      metaTitle: "Events Single Corps"
+      metaLinkText: "Events Single Corps"
+      metaKeywords: null
+      pathPart: "events-single-corps"
+      path: "/events-single-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 147
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "Events Single Corps"
+  - id: "8a71-feba-c461"
+    web:
+      metaDescription: ""
+      metaTitle: "Events Single National"
+      metaLinkText: "Events Single National"
+      metaKeywords: null
+      pathPart: "events-single-national"
+      path: "/events-single-national/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 146
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "Events Single National"

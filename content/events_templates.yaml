@@ -1,0 +1,41 @@
+
+  - id: "b6c9-baa5-9af1"
+    web:
+      metaDescription: ""
+      metaTitle: "Events Corps"
+      metaLinkText: "Events Corps"
+      metaKeywords: null
+      pathPart: "events-corps"
+      path: "/events-corps/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: -2
+      test_title: "Events Corps"
+  - id: "d9d4-24f7-7150"
+    web:
+      metaDescription: ""
+      metaTitle: "Events National"
+      metaLinkText: "Events National"
+      metaKeywords: null
+      pathPart: "events-national"
+      path: "/events-national/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+      createdByUserZUID: "5-b8e2c28bf6-3m34fw"
+    data:
+      sort: 2
+      test_title: "Events National"

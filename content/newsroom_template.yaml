@@ -1,0 +1,19 @@
+
+  - id: "30f7-227f-4fc3"
+    web:
+      metaDescription: ""
+      metaTitle: "Newsroom Template"
+      metaLinkText: "Newsroom Template"
+      metaKeywords: null
+      pathPart: "newsroom-template"
+      path: "/newsroom-template/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 113
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data: {}

@@ -1,0 +1,19 @@
+
+  - id: "2a70-7c79-0003"
+    web:
+      metaDescription: ""
+      metaTitle: "Volunteer Template"
+      metaLinkText: "Volunteer Template"
+      metaKeywords: null
+      pathPart: "volunteer-template"
+      path: "/volunteer-template/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+      createdByUserZUID: "5-caec878da1-5kwnqt"
+    data: {}
